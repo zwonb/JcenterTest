@@ -1,4 +1,4 @@
-package com.zwonb.jcentertest2;
+package com.zwonb.jcentertest;
 
 import android.util.Log;
 
